@@ -29,7 +29,25 @@ const qoutes = [{
 }, {
     qoute: "The greatest glory in living lies not in never falling, but in rising every time we fall",
     person: "-Nelson Mandela" 
-}];  
+}, {
+    qoute: "To love oneself is the beginning of a lifelong romance",
+    person: "-Oscar Wilde" 
+}, {
+    qoute: "Sometimes, when things are falling apart, they may actually be falling into place.",
+    person: "-Unknown" 
+}, {
+    qoute: "Being a successful person is not necessarily defined by what you have achieved, but by what you have overcome",
+    person: "-Fannie Flagg" 
+}, {
+    qoute: "Every morning you have two choices: continue to sleep with your dreams, or wake up and chase them",
+    person: "-Unknown" 
+}, {
+    qoute: "Nobody can go back and start a new beginning, but anyone can start today and make a new ending",
+    person: "-Maria Robinson" 
+}, {
+    qoute: "To change your life, you must first change your day",
+    person: "-Unknown"  
+}]; 
  
 function generate(){ 
     for (let i=0; i<qoutes.length; i++){ 
