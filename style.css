@@ -1,0 +1,25 @@
+
+h2{
+    font-family: 'Young Serif', serif; 
+    font-weight: 700; 
+    font-size: 2rem;   
+}
+
+h5{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h6{
+    font-family: 'Montserrat', sans-serif; 
+    font-style: italic; 
+}
+.main{
+    background-image: url(./media/bg.webp);  
+    background-size: cover;   
+    height: 100vh ;       
+    
+} 
+
+#container{
+    box-shadow: 10px 10px 5px 0px rgba(138,135,138,1); 
+}
