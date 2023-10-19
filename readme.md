@@ -6,4 +6,5 @@ Technology Used:
 - Bootstrap
 - Javascript
 
+Live Prevew: [Here](https://novice-is-me.github.io/Quote-Generator/)
 !!Feel free to fork and modify
